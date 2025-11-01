@@ -1,0 +1,25 @@
+/* selector por etiqueta */
+body {
+
+background-color: aqua;
+}
+
+h1 {
+    color: green;
+}
+
+div p {
+    color: red;
+}
+article p {
+    color: blue;
+}
+
+/*selector por clase*/
+
+.texto-article {
+    font-size: 30px;
+    color: purple;
+
+.texto-plano }
+
